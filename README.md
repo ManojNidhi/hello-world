@@ -1,3 +1,4 @@
-# datasciencecoursers
+# datasciencecoursera
+
 sample
 sample text
